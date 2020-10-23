@@ -170,7 +170,7 @@ body{
     padding-left: 95px;
     height: 110px;
     border-bottom: 1px solid #f2f2f2;
-    padding-left: 95px;
+    padding-left: 130px;
 }
 #form-bot{
     height: 48px;
@@ -201,6 +201,7 @@ body{
     background-color: black;
     padding-left: 10px;
     font-size: 16px;
+    color: white;
 }
 #fr-b2 input{
     font-size: 16px;
@@ -216,4 +217,12 @@ body{
     height: 35px;
     width: 55px;
 
+}
+a{
+    color: black;
+    text-decoration: none;
+}
+.sub-menu1 a{
+    color: white;
+    text-decoration: none;
 }
