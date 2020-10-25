@@ -226,3 +226,66 @@ a{
     color: white;
     text-decoration: none;
 }
+.stt{
+    overflow: auto;
+    width: 100%;
+    padding-right: 50px;
+    margin-bottom: 40px;
+}
+.stt .sub-stt{
+    width: 42px;
+    float: right;
+    height: 42px;
+    margin-right: 20px;
+    line-height: 42px;
+    text-align: center;
+    border: 1px solid lightgray;
+}
+.stt .sub-stt:hover{
+    color: white;
+    background-color: black;
+}
+.sub-stt a{
+    width: 100%;
+}
+.icon-info .fab{
+    font-size: 35px;
+}
+.stt-spm{
+    overflow: auto;
+    width: 100%;
+    padding-right: 50px;
+    margin-bottom: 40px;
+}
+.stt-spm .sub-stt{
+    width: 42px;
+    float: right;
+    height: 42px;
+    margin-right: 20px;
+    line-height: 42px;
+    text-align: center;
+    border: 1px solid lightgray;
+}
+.stt-spm .sub-stt:hover{
+    color: white;
+    background-color: black;
+}
+.stt-tuixach{
+    overflow: auto;
+    width: 100%;
+    padding-right: 50px;
+    margin-bottom: 40px;
+}
+.stt-tuixach .sub-stt{
+    width: 42px;
+    float: right;
+    height: 42px;
+    margin-right: 20px;
+    line-height: 42px;
+    text-align: center;
+    border: 1px solid lightgray;
+}
+.stt-tuixach .sub-stt:hover{
+    color: white;
+    background-color: black;
+}
