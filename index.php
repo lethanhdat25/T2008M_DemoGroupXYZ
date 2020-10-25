@@ -1,1 +1,1 @@
-<?php include("duangroup.html");
+<?php include("duangroup-trangchu.html");

@@ -289,3 +289,10 @@ a{
     color: white;
     background-color: black;
 }
+.img-trangchu img{
+    width: 100%;
+}
+.video-trangchu{
+    margin-left: 56px;
+    margin-top: 30px;
+}
