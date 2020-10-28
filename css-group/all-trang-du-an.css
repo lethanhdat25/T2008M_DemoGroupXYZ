@@ -1,0 +1,37 @@
+.container{
+    float: none;
+    margin:auto;
+}
+.logo-header h1{
+    text-align: center;
+}
+.menu ul{
+    color: black;
+    list-style-type: none;
+    text-align: center;
+}
+.menu ul li{
+    display: inline-table;
+    width: 130px;
+    height: 40px;
+    line-height: 40px;
+    position: relative;
+    width: 130px;
+    list-style-type: none;
+    float: left;
+}
+
+#img-lg img{
+    width: 23px;
+    height: 23px;
+    margin-top: 8px;
+}
+#img-lg{
+    width: 160px;
+    height: 23px;
+    float: right;
+}
+#img-lg span{
+    top: -5px;
+    position: relative;
+}
