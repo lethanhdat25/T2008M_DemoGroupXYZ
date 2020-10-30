@@ -167,13 +167,17 @@ body{
     margin-top: 60px;
 }
 .menu1{
-    overflow: auto;
+    width: 1200px;
+    float: none;
+    margin: auto;
 }
 .sub-menu1 {
-    padding-left: 95px;
     height: 110px;
     border-bottom: 1px solid #f2f2f2;
     padding-left: 130px;
+    width: 1230px;
+    float: none;
+    margin: auto;
 }
 #form-bot{
     height: 48px;
