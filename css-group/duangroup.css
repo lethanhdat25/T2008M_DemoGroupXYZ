@@ -156,12 +156,10 @@ body{
 .sub-menu1 li{
     list-style-type: none;
     float: left;
-    margin-left: 67px;
+    margin-left: 65px;
     margin-top: 60px;
-}
-.sub-menu1 {
-    border-bottom: 1px solid #f2f2f2;
-    margin-left: 55px;
+    margin-bottom: 20px;
+
 }
 #form-bot{
     height: 48px;
@@ -285,4 +283,10 @@ a{
 .login-nav{
     top: 10px;
     position: relative;
+}
+.sub-submenu1{
+    float: right;
+    border-bottom: 1px solid;
+    width: 90%;
+    margin-right: 70px;
 }
