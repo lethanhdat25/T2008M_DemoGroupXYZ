@@ -15,12 +15,12 @@ body{
     float: none;
     margin: auto;
     overflow: auto;
+    box-sizing: border-box;
 }
 .container-top{
     width: 1170px;
     height: 48px;
-    margin-left: 100px;
-    overflow: auto;
+    margin-left: 150px;
 }
 .header .container{
     margin-top: 50px;
@@ -33,7 +33,7 @@ body{
 }
 .menu{
     width: 1200px;
-    margin-left: 30px;
+    margin-left: 150px;
 }
 .nav{
     margin-top: 20px;
@@ -139,12 +139,12 @@ body{
 }
 #fr-s2{
     height: 100%;
-    width: 100%;
-    margin-left: 300px;
+    width: 435px;
 }
 #fr-s2 select{
-    width:  30%;
+    width:  175.5px;
     height: 100%;
+    float: right;
 }
 #fr-s1{
     height: 100%;
