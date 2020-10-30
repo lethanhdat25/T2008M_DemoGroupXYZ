@@ -1,5 +1,4 @@
 *{
-    margin: 0;
     padding: 0;
     box-sizing: border-box;
 }
@@ -11,7 +10,6 @@ body{
     width: 100%;
 }
 .container{
-    width: 1170px;
     float: none;
     margin: auto;
     overflow: auto;
@@ -65,11 +63,6 @@ body{
 }
 .bot{
     margin-top: 25px;
-    width: 280px;
-    height: 350px;
-    float: left;
-    margin-right: 10px;
-
 }
 .bot img{
     width: 280px;
