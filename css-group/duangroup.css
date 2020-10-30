@@ -50,7 +50,7 @@ body{
 #img-lg{
     width: 160px;
     height: 23px;
-    float: right;
+    float: left;
 }
 #img-lg span{
     top: -5px;
