@@ -60,6 +60,7 @@ body{
 #run{
     position: fixed;
     background-color: white;
+    z-index: 7;
 }
 .bot{
     margin-top: 25px;
