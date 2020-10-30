@@ -18,14 +18,16 @@ body{
     box-sizing: border-box;
 }
 .container-top{
-    width: 1170px;
+    width: 900px;
     height: 48px;
-    margin-left: 150px;
+    float: none;
+    margin: auto;
 }
 .header .container{
     margin-top: 50px;
     border-bottom: 1px solid black;
     height: 100px;
+    width: 100%;
 }
 .container h1{
     text-align: center;
@@ -33,7 +35,8 @@ body{
 }
 .menu{
     width: 1200px;
-    margin-left: 150px;
+    float: none;
+    margin: auto;
 }
 .nav{
     margin-top: 20px;
