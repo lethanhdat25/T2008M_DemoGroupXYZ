@@ -174,7 +174,7 @@ body{
 .sub-menu1 {
     height: 110px;
     border-bottom: 1px solid #f2f2f2;
-    padding-left: 130px;
+    padding-left: 90px;
     width: 1230px;
     float: none;
     margin: auto;
@@ -183,7 +183,7 @@ body{
     height: 48px;
     width: 575px;
     float: left;
-    margin-left: 352.500px;
+    margin-left: 313.500px;
     margin-top: 30px;
 }
 #form-bot input{
@@ -300,6 +300,8 @@ a{
     width: 100%;
 }
 .video-trangchu{
-    margin-left: 56px;
-    margin-top: 30px;
+    width: 1170px;
+    float: none;
+    margin: auto;
+
 }
