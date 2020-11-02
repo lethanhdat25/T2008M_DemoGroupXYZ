@@ -2,6 +2,10 @@
     padding: 0;
     box-sizing: border-box;
 }
+#header-span{
+    font-weight: 300 ;
+    font-size: 25px;
+}
 body{
     font-family: 'Montserrat', sans-serif;
 }
@@ -40,7 +44,9 @@ body{
     margin-top: 20px;
     height: 50px;
 }
-
+b{
+    font-size: 14px;
+}
 
 
 #img-lg img{
@@ -286,7 +292,7 @@ a{
     position: relative;
 }
 .sub-submenu1{
-    border-bottom: 1px solid;
+    border-bottom: 1px solid ;
 }
 .form-bot{
     margin-top: 20px;
