@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Demo JS</title>
+</head>
+<body>
+<script type="text/javascript">
+   var somayman=[],lucky=[],sl;
+   for(let i=1;i<6;i++){
+       somayman[i]=[];
+       for(let j=1;j<6;j++){
+           let x;
+           do{
+               x=prompt("moi ban nhap so may man: "+ "[" +i+ "]" + "[" +j +"]");
+           }while(somayman.includes(x)||isNaN(x));
+           somayman[i][j]=x;
+       }
+   }
+   console.log(somayman);
+   for(let i=1;i<6;i++){
+       let x;
+       do {
+               x=prompt("moi ban nhap so trung thuong:");
+           }while(lucky.includes(x)||isNaN(x));
+       lucky[i]=x;
+   }console.log(lucky);
+   for(let i=1;i<6;i++){
+       sl=0;
+       for(let j=1;j<6;j++){
+           if(lucky.includes(somayman[i][j])){
+               sl++;
+           }
+       }if(sl==5){
+           console.log("ban da trung thuong");
+       }
+   }
+</script>
+</body>
+</html>
