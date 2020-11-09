@@ -19,7 +19,7 @@ function nav(){
         "                    </ul>\n" +
         "                </li>\n" +
         "                <li>\n" +
-        "                    <a href=\"duangroup-tuixach-trang1.html\"><b>Túi xách</b></a>\n" +
+        "                    <a href=\"duangroup-tuixach-trang.html\"><b>Túi xách</b></a>\n" +
         "                    <ul class=\"quanao\">\n" +
         "                        <li><b>TÚI ĐEO CHÉO</b></li>\n" +
         "                        <li><b>TÚI BAO TỬ</b></li>\n" +
