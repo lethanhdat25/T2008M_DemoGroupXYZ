@@ -5,7 +5,7 @@ function footer(){
         "                <li class=\"col-md-1\"><a href=\"duangroup-trangchu.html\"><b>Trang chủ</b></a></li>\n" +
         "                <li class=\"col-md-2\"><a href=\"duangroup-spm.html\"><b>Sản phẩm mới</b></a></li>\n" +
         "                <li class=\"col-md-1\"><a href=\"duangroup.html\"><b>Quần áo</b></a></li>\n" +
-        "                <li class=\"col-md-1\"><a href=\"duangroup-tuixach-trang1.html\"><b>Túi xách</b></a></li>\n" +
+        "                <li class=\"col-md-1\"><a href=\"duangroup-tuixach-trang.html\"><b>Túi xách</b></a></li>\n" +
         "                <li class=\"col-md-1\"><a href=\"\"><b>Phụ kiện</b></a></li>\n" +
         "                <li class=\"col-md-1\"><a href=\"\"><b>Giới thiệu</b></a></li>\n" +
         "                <li class=\"col-md-1\"><a href=\"\"><b>Blog</b></a></li>\n" +

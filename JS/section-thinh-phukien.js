@@ -21,4 +21,4 @@ function section_phukien(){
 return dulieu_pk;
 }
 var phukien=document.getElementById("section-thinh-phukien");
-phukien.innerHTML=section_phukien()
+phukien.innerHTML=section_phukien();
