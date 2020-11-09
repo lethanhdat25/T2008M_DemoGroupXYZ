@@ -18,5 +18,6 @@ function section_quanao_1(){
     }
     return dulieu_quanao_1;
 }
+
 var quanao_1=document.getElementById("section-thinh-quanao-1");
 quanao_1.innerHTML=section_quanao_1();

@@ -1,4 +1,5 @@
 function nav(){
+
     return"<div class=\"menu\">\n" +
         "            <ul class=\"sub-menu\">\n" +
         "                <li><a href=\"duangroup-trangchu.html\"><b>Trang chủ</b></a></li>\n" +

@@ -30,5 +30,6 @@ function footer(){
         "        </div>\n" +
         "    </div>"
 }
+
 var fot=document.getElementById("footer-thinh");
 fot.innerHTML= footer();

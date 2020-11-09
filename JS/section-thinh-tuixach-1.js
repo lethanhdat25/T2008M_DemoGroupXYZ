@@ -3,6 +3,7 @@ var dulieu=[
     image:"img-group/img-duan-tuixach-trang-1.webp",
     price:""}
 ];
+
 function secstion_tuixach_1(){
     var du_lieu_tuixach_1="";
     for (i=0;i<dulieu.length;i++){

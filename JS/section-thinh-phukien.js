@@ -3,6 +3,7 @@
         name:"teytryr",
         price:"65446",
      }
+
  ]
 function section_phukien(){
     var dulieu_pk="";

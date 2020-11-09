@@ -2,7 +2,7 @@ var dulieu=[
     {image:"img-group/img-duan-spm-trang-1.jpg",
     name:"BABEI TRENCH COAT",
     price:"5346",}
-]
+];
 function section_spm(){
     var dulieu_spm="";
     for (i=0;i<dulieu.length;i++){

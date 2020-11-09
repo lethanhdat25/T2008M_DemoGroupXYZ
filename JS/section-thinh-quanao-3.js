@@ -3,6 +3,7 @@ var dulieu=[
         image:"img-group/img-duan-trang3-1.jpg",
         price:""}
 ];
+
 function section_quanao_3(){
     var dulieu_quanao_3="";
     for (i=0;i<dulieu.length;i++){
