@@ -60,13 +60,14 @@ body{
 #run{
     position: fixed;
     background-color: white;
-    z-index: 7;
+    z-index: 100;
 }
 .bot{
     margin-top: 25px;
+    display: block;
 }
 .bot img{
-    width: 280px;
+    width: 285px;
     height:261px ;
 }
 .menu ul{
@@ -291,4 +292,16 @@ a{
 .form-bot{
     margin-top: 20px;
     margin-bottom: 10px;
+}
+.anhan{
+    z-index: 10;
+    position: relative;
+}
+.anhhien{
+    position: absolute;
+    z-index: 50;
+}
+.anhhien:hover {
+    z-index: 3;
+    transition: 0.5s;
 }
