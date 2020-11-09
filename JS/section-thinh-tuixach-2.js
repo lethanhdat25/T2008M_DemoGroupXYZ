@@ -1,13 +1,13 @@
 var dulieu=[
     {name:"",
-        image:"img-group/img-duan-trang3-1.jpg",
-        price:""}
+    image:"img-group/img-duan-tuixach-trang2-2.webp",
+    price:""}
 ];
 
-function section_quanao_3(){
-    var dulieu_quanao_3="";
+function section_tuixach_2(){
+    var dulieu_tuixach_2="";
     for (i=0;i<dulieu.length;i++){
-        dulieu_quanao_3+="        <div class=\"bot col-md-3\">\n" +
+        dulieu_tuixach_2+="        <div class=\"bot col-md-3\">\n" +
             "            <a href=\"\" ><img src=\""+dulieu[i].image+"\"/></a>\n" +
             "            <a href=\"\" >\n" +
             "                <div class=\"text\">\n" +
@@ -16,8 +16,9 @@ function section_quanao_3(){
             "                </div>\n" +
             "            </a>\n" +
             "        </div>\n"
+
     }
-    return dulieu_quanao_3;
+    return dulieu_tuixach_2;
 }
-var quanao_3=document.getElementById("section-thinh-quanao-3");
-quanao_3.innerHTML=section_quanao_3();
+var tuixach_2=document.getElementById("section-thinh-tuixach-2");
+tuixach_2.innerHTML=section_tuixach_2();
