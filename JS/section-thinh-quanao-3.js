@@ -1,7 +1,7 @@
 var dulieu=[
     {name:"",
-    image:"img-group/img-duan-trang3-1.jpg",
-    price:""}
+        image:"img-group/img-duan-trang3-1.jpg",
+        price:""}
 ];
 function section_quanao_3(){
     var dulieu_quanao_3="";
