@@ -4,6 +4,8 @@
 }
 body{
     font-family: 'Montserrat', sans-serif;
+    padding: 0;
+    margin: 0;
 }
 .all{
     float: left;
@@ -16,7 +18,7 @@ body{
     box-sizing: border-box;
 }
 .container-top{
-    width: 900px;
+    width: 920px;
     height: 48px;
     float: none;
     margin: auto;
@@ -60,14 +62,17 @@ body{
 #run{
     position: fixed;
     background-color: white;
-    z-index: 7;
+    z-index: 100;
 }
 .bot{
     margin-top: 25px;
+    display: block;
+    text-align: center;
 }
 .bot img{
-    width: 280px;
-    height:261px ;
+    width: 100%;
+    height: 393.75px;
+
 }
 .menu ul{
     color: black;
@@ -83,7 +88,6 @@ body{
     list-style-type: none;
     float: left;
 }
-
 .quanao{
     display: none;
     background-color: white;
@@ -115,9 +119,6 @@ body{
     position: absolute;
     left: -20px;
 }
-.text{
-    text-align: center;
-}
 .section{
     overflow: auto;
     margin-top: 300px;
@@ -144,9 +145,9 @@ body{
 }
 #fr-s1{
     height: 100%;
+    width: 50%;
 }
 #fr-s1 select{
-    width:  30%;
     height: 100%;
 }
 .footer{
@@ -291,4 +292,28 @@ a{
 .form-bot{
     margin-top: 20px;
     margin-bottom: 10px;
+}
+
+.anhhien{
+    position: relative;
+    float: right;
+    transition: 0.6s;
+}
+.anhan{
+    position: absolute;
+    z-index: 5;
+    display: none;
+    right: 0;
+    top:0;
+}
+.anhhien:hover .anhan{
+    display: block;
+    transition: 3s;
+}
+.App{
+    width: 1280px;
+    text-align: justify;
+}
+.anhhien:hover{
+    transition: 0.6s;
 }
