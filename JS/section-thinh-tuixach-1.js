@@ -1,7 +1,7 @@
 var dulieu=[
     {name:"",
     image:"img-group/img-duan-tuixach-trang-1.webp",
-    price:""}
+    price:"5"}
 ];
 
 var dulieu_anhan=[
@@ -11,14 +11,14 @@ function secstion_tuixach_1(){
     var du_lieu_tuixach_1="";
     for (i=0;i<dulieu.length;i++){
         du_lieu_tuixach_1+="<div class=\"bot col-md-3\">\n" +
-            "        <a href=\"\" >\n" +
-            "            <div class=\"anhhien\">\n" +
-            "                <img src=\""+dulieu[i].image+"\"  />\n" +
-            "            </div>\n" +
-            "            <div  class=\"anhan\">\n" +
-            "                 <img src=\""+dulieu_anhan[i].image+"\">\n" +
-            "            </div>\n" +
+            "        <div class=\"anhhien\">\n" +
+            "        <a href='#'>\n" +
+            "            <img  src=\""+dulieu[i].image+"\"  />\n" +
+            "           <div class=\"anhan\">\n" +
+            "               <img  src=\""+dulieu_anhan[i].image+"\">\n" +
+            "           </div>\n" +
             "        </a>\n" +
+            "            </div>\n" +
             "        <a href=\"\" >\n" +
             "            <div class=\"text\">\n" +
             "                <h4>"+dulieu[i].name+"</h4>\n" +

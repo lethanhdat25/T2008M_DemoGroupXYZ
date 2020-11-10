@@ -10,14 +10,14 @@ function section_spm(){
     var dulieu_spm="";
     for (i=0;i<dulieu.length;i++){
         dulieu_spm+="<div class=\"bot col-md-3\">\n" +
-            "        <a href=\"\" >\n" +
-            "            <div class=\"anhhien\">\n" +
-            "                <img src=\""+dulieu[i].image+"\"  />\n" +
-            "            </div>\n" +
-            "            <div  class=\"anhan\">\n" +
-            "                 <img src=\""+dulieu_anhan[i].image+"\">\n" +
-            "            </div>\n" +
+            "        <div class=\"anhhien\">\n" +
+            "        <a href='#'>\n" +
+            "            <img  src=\""+dulieu[i].image+"\"  />\n" +
+            "           <div class=\"anhan\">\n" +
+            "               <img  src=\""+dulieu_anhan[i].image+"\">\n" +
+            "           </div>\n" +
             "        </a>\n" +
+            "            </div>\n" +
             "        <a href=\"\" >\n" +
             "            <div class=\"text\">\n" +
             "                <h4>"+dulieu[i].name+"</h4>\n" +
