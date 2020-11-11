@@ -300,19 +300,22 @@ a{
 }
 .anhhien{
     opacity: 1;
-    transition: 0.6s;
+    transition: 1s;
 }
 .anhan{
     opacity: 0;
-    transition: 0.6s;
+    transform: translate(0px,-350px);
+    transition: 1s;
+    height: 350px;
 }
 .anhImgs:hover .anhhien{
-    transition: 0.6s;
+    transition: 1s ;
     opacity: 0;
 }
 .anhImgs:hover .anhan{
     opacity: 1;
-    transition: 0.6s;
+    transition: 1s ;
+
 }
 .App{
     width: 1280px;
@@ -321,3 +324,7 @@ a{
 .anhhien:hover{
     transition: 0.6s;
 }
+.all-anh{
+    height: 350px;
+}
+
