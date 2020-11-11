@@ -64,6 +64,7 @@ var dulieu_anhan=[
     {image:"img-group/img-duan-anhan11.jpg"},
     {image:"img-group/img-duan-anhan12.webp"},
 ];
+
 function section_quanao_1(){
     var dulieu_quanao_1="";
     for (i=0;i<dulieu.length;i++){

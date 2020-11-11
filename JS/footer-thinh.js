@@ -1,4 +1,5 @@
 function footer(){
+
     return"<div class=\"menu1\">\n" +
         "        <ul class=\"sub-menu1\">\n" +
         "            <div class=\"sub-submenu1 col-md-12\">\n" +

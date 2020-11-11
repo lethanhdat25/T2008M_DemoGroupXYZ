@@ -3,7 +3,6 @@ var dulieu=[
     image:"img-group/img-duan-tuixach-trang-1.webp",
     price:"5"}
 ];
-
 var dulieu_anhan=[
     {image:"img-group/img-duan-spm-trang-2.jpg"}
 ];
