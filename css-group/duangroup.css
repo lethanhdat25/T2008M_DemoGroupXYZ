@@ -192,6 +192,7 @@ body{
     color: #757575;
     height: 55px;
     width: 30%;
+    float: left;
 }
 .info{
     margin-top: 80px;
@@ -216,7 +217,7 @@ a{
     padding-right: 50px;
     margin-bottom: 40px;
 }
-.stt .sub-stt{
+.sub-stt{
     width: 42px;
     float: right;
     height: 42px;
@@ -239,7 +240,7 @@ a{
     overflow: auto;
     width: 100%;
     padding-right: 50px;
-    margin-bottom: 40px;
+    padding: 40px;
 }
 .stt-spm .sub-stt{
     width: 42px;
