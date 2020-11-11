@@ -1,51 +1,51 @@
 var dulieu=[
-    {name:"",
+    {name:"BABEI TRENCHCOAT",
     image:"img-group/img-duan1.jpg",
-    price:"123"},
+    price:"1,450,000₫"},
 
-    {name:"",
-    image:"img-group/img-duan4.jpg",
-    price:"123"},
+    {name:"Beanie T-shirt",
+    image:"img-group/img-duan2.jpg",
+    price:"400,000₫"},
 
-    {name:"",
+    {name:"BLANKE CLUB TSHIRT",
     image:"img-group/img-duan3.jpg",
-    price:"123"},
+    price:"350,000₫"},
 
-    {name:"",
+    {name:"BLANKE TANKTOP",
     image:"img-group/img-duan4.jpg",
-    price:"123"},
+    price:"280,000₫"},
 
-    {name:"",
+    {name:"BOLIVE JACKET",
     image:"img-group/img-duan5.jpg",
-    price:"123"},
+    price:"760,000₫"},
 
-    {name:"",
+    {name:"CELINE BOLIVE PANTS",
     image:"img-group/img-duan6.jpg",
-    price:"123"},
+    price:"500,000₫"},
 
-    {name:"",
+    {name:"Cement Blue Short",
     image:"img-group/img-duan7.jpg",
-    price:"123"},
+    price:"220,000₫"},
 
-    {name:"",
+    {name:"CIRCUS BOMBER",
     image:"img-group/img-duan8.jpg",
-    price:"123"},
+    price:"890,000₫"},
 
-    {name:"",
+    {name:"Clown Pants",
     image:"img-group/img-duan9.jpg",
-    price:"123"},
+    price:"400,000₫"},
 
-    {name:"",
+    {name:"COWBOY PANTS",
     image:"img-group/img-duan10.jpg",
-    price:"123"},
+    price:"680,000₫"},
 
-    {name:"",
+    {name:"CROSS VEST",
     image:"img-group/img-duan11.jpg",
-    price:"123"},
+    price:"540,000₫"},
 
-    {name:"",
+    {name:"Daisy Shirt",
     image:"img-group/img-duan12.jpg",
-    price:"123"},
+    price:"490,000₫"},
 
 
 ];
@@ -80,7 +80,7 @@ function section_quanao_1(){
             "        <a href=\"\" >\n" +
             "            <div class=\"text\">\n" +
             "                <h4>"+dulieu[i].name+"</h4>\n" +
-            "                <b>"+dulieu[i].price+"d</b>\n" +
+            "                <b>"+dulieu[i].price+"</b>\n" +
             "            </div>\n" +
             "        </a>\n" +
             "    </div>"
@@ -90,3 +90,5 @@ function section_quanao_1(){
 
 var quanao_1=document.getElementById("section-thinh-quanao-1");
 quanao_1.innerHTML=section_quanao_1();
+
+
