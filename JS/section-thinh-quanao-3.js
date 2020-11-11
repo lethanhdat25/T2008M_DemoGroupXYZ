@@ -1,11 +1,11 @@
 var dulieu=[
     {name:"",
-        image:"img-group/img-duan-trang3-1.jpg",
-        price:""}
+    image:"img-group/img-duan-trang3-1.jpg",
+    price:""}
 ];
 
 var dulieu_anhan=[
-    {image:"img-group/img-duan-spm-trang-2.jpg"}
+    {image:"img-group/img-duan-trang3-1.jpg"}
 ];
 function section_quanao_3(){
     var dulieu_quanao_3="";
