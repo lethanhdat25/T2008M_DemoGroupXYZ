@@ -1,10 +1,65 @@
 var dulieu=[
-    {name:"",
+    {name:"2-SQUARE CROSS BODY BAG",
     image:"img-group/img-duan-tuixach-trang-1.webp",
-    price:"5"}
+    price:"490,000"},
+
+    {name:"ALAN OVERSIZE BAG",
+        image:"img-group/img-duan-tuixach-trang-2.webp",
+        price:"750,000"},
+
+    {name:"ALI MESSENGER BAG",
+        image:"img-group/img-duan-tuixach-trang-3.webp",
+        price:"435,000"},
+
+    {name:"AME VIERGE TOTE BAG",
+        image:"img-group/img-duan-tuixach-trang-4.webp",
+        price:"280,000"},
+
+    {name:"BLANKSOUL CROSS BODY",
+        image:"img-group/img-duan-tuixach-trang-5.webp",
+        price:"150,000"},
+
+    {name:"BLANKSOUL TOTE BAG",
+        image:"img-group/img-duan-tuixach-trang-6.webp",
+        price:"220,000"},
+
+    {name:"BOTTE CROSS BAG",
+        image:"img-group/img-duan-tuixach-trang-7.webp",
+        price:"435,000"},
+
+    {name:"CAP BAG",
+        image:"img-group/img-duan-tuixach-trang-8.jpg",
+        price:"650,000"},
+
+    {name:"CASA CROSS BAG",
+        image:"img-group/img-duan-tuixach-trang-9.webp",
+        price:"575,000"},
+
+    {name:"CHAIN FANNY BAG",
+        image:"img-group/img-duan-tuixach-trang-10.webp",
+        price:"590,000"},
+
+    {name:"CIRCLE MINI WALLET",
+        image:"img-group/img-duan-tuixach-trang-11.webp",
+        price:"350,000"},
+
+    {name:"CIRCUS BAG",
+        image:"img-group/img-duan-tuixach-trang-12.jpg",
+        price:"750,000"},
 ];
 var dulieu_anhan=[
-    {image:"img-group/img-duan-spm-trang-2.jpg"}
+    {image:"img-group/img-duan-tuixach-trang-1.webp"},
+    {image:"img-group/img-duan-tuixach-trang-2.webp"},
+    {image:"img-group/img-duan-tuixach-trang-3.webp"},
+    {image:"img-group/img-duan-tuixach-trang-4.webp"},
+    {image:"img-group/img-duan-tuixach-trang-5.webp"},
+    {image:"img-group/img-duan-tuixach-trang-6.webp"},
+    {image:"img-group/img-duan-tuixach-trang-7.webp"},
+    {image:"img-group/img-duan-tuixach-trang-8.jpg"},
+    {image:"img-group/img-duan-tuixach-trang-9.webp"},
+    {image:"img-group/img-duan-tuixach-trang-10.webp"},
+    {image:"img-group/img-duan-tuixach-trang-11.webp"},
+    {image:"img-group/img-duan-tuixach-trang-12.jpg"},
 ];
 function secstion_tuixach_1(){
     var du_lieu_tuixach_1="";
@@ -21,7 +76,7 @@ function secstion_tuixach_1(){
             "        <a href=\"\" >\n" +
             "            <div class=\"text\">\n" +
             "                <h4>"+dulieu[i].name+"</h4>\n" +
-            "                <b>"+dulieu[i].price+"d</b>\n" +
+            "                <b>"+dulieu[i].price+"đ</b>\n" +
             "            </div>\n" +
             "        </a>\n" +
             "    </div>"

@@ -1,11 +1,68 @@
 
 var dulieu=[
     {image:"img-group/img-duan-spm-trang-1.jpg",
-    name:"BABEI TRENCH COAT",
-    price:"5346",}
+    name:"AQUA TANKTOP",
+    price:"350,000đ"},
+
+    {image:"img-group/img-duan-spm-trang-2.jpg",
+        name:"BLANC SHORTS",
+        price:"420,000đ"},
+
+    {image:"img-group/img-duan-spm-trang-3.jpg",
+        name:"BLANKROSE SHIRT",
+        price:"380,000đ"},
+
+    {image:"img-group/img-duan-spm-trang-4.jpg",
+        name:"BLANKROSE SHIRT",
+        price:"380,000đ"},
+
+    {image:"img-group/img-duan-spm-trang-5.jpg",
+        name:"BLANKSOUL MAUVAIS TANKOP",
+        price:"230,000đ"},
+
+    {image:"img-group/img-duan-spm-trang-6.jpg",
+        name:"BLANKSOUL MIX TEE",
+        price:"280,000đ"},
+
+    {image:"img-group/img-duan-spm-trang-7.jpg",
+        name:"BLANKSOUL SHORT",
+        price:"320,000đ"},
+
+    {image:"img-group/img-duan-spm-trang-8.jpg",
+        name:"BLANKSOUL SLOGAN TEE",
+        price:"250,000đ"},
+
+    {image:"img-group/img-duan-spm-trang-9.jpg",
+        name:"BLANKSOUL STRIPE TEE",
+        price:"260,000đ"},
+
+    {image:"img-group/img-duan-spm-trang-10.jpg",
+        name:"BLANKSOUL WHITE SHIRT",
+        price:"380,000đ"},
+
+    {image:"img-group/img-duan-spm-trang-11.jpg",
+        name:"BLANNKSOUL GARCON",
+        price:"380,000đ"},
+
+    {image:"img-group/img-duan-spm-trang-12.jpg",
+        name:"BLUE TRINGLE SHIRT",
+        price:"480,000đ"},
 ];
 var dulieu_anhan=[
-    {image:"img-group/img-duan-spm-trang-2.jpg"}
+    {image:"img-group/img-duan-spm-trang-1.jpg"},
+    {image:"img-group/img-duan-spm-trang-2.jpg"},
+    {image:"img-group/img-duan-spm-trang-3.jpg"},
+    {image:"img-group/img-duan-spm-trang-4.jpg"},
+    {image:"img-group/img-duan-spm-trang-5.jpg"},
+    {image:"img-group/img-duan-spm-trang-6.jpg"},
+    {image:"img-group/img-duan-spm-trang-7.jpg"},
+    {image:"img-group/img-duan-spm-trang-8.jpg"},
+    {image:"img-group/img-duan-spm-trang-9.jpg"},
+    {image:"img-group/img-duan-spm-trang-10.jpg"},
+    {image:"img-group/img-duan-spm-trang-11.jpg"},
+    {image:"img-group/img-duan-spm-trang-12.jpg"},
+
+
 ];
 function section_spm(){
     var dulieu_spm="";
@@ -22,7 +79,7 @@ function section_spm(){
             "        <a href=\"\" >\n" +
             "            <div class=\"text\">\n" +
             "                <h4>"+dulieu[i].name+"</h4>\n" +
-            "                <b>"+dulieu[i].price+"d</b>\n" +
+            "                <b>"+dulieu[i].price+"</b>\n" +
             "            </div>\n" +
             "        </a>\n" +
             "    </div>"
