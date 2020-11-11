@@ -4,7 +4,7 @@ var dulieu=[
     price:"123"},
 
     {name:"",
-    image:"img-group/img-duan2.jpg",
+    image:"img-group/img-duan4.jpg",
     price:"123"},
 
     {name:"",
