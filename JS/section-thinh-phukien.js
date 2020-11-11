@@ -3,7 +3,6 @@
         name:"teytryr",
         price:"65446",
      }
-
  ];
  var dulieu_anhan=[
      {image:"img-group/img-duan-spm-trang-2.jpg"}
