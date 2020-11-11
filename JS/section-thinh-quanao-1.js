@@ -69,11 +69,11 @@ function section_quanao_1(){
     var dulieu_quanao_1="";
     for (i=0;i<dulieu.length;i++){
         dulieu_quanao_1+="<div class=\"bot col-md-3\">\n" +
-            "        <div class=\"anhhien\">\n" +
+            "        <div class=\"anhImgs\">\n" +
             "        <a href='#'>\n" +
-            "            <img  src=\""+dulieu[i].image+"\"  />\n" +
-            "           <div class=\"anhan\">\n" +
-            "               <img  src=\""+dulieu_anhan[i].image+"\">\n" +
+            "           <div class=\"all-anh\">\n" +
+            "            <img class='anhhien' src=\""+dulieu[i].image+"\"  />\n" +
+            "               <img class='anhan' src=\""+dulieu_anhan[i].image+"\">\n" +
             "           </div>\n" +
             "        </a>\n" +
             "            </div>\n" +

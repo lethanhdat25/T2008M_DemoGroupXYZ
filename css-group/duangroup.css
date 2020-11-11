@@ -294,21 +294,25 @@ a{
     margin-bottom: 10px;
 }
 
+.anhImgs{
+    overflow: hidden;
+    transition: 0.6s;
+}
 .anhhien{
-    position: relative;
-    float: right;
+    opacity: 1;
     transition: 0.6s;
 }
 .anhan{
-    position: absolute;
-    z-index: 5;
-    display: none;
-    right: 0;
-    top:0;
+    opacity: 0;
+    transition: 0.6s;
 }
-.anhhien:hover .anhan{
-    display: block;
-    transition: 3s;
+.anhImgs:hover .anhhien{
+    transition: 0.6s;
+    opacity: 0;
+}
+.anhImgs:hover .anhan{
+    opacity: 1;
+    transition: 0.6s;
 }
 .App{
     width: 1280px;
