@@ -48,35 +48,35 @@ var dulieu=[
         price:"310,000"}
 ];
 var dulieu_anhan=[
-    {image:"img-group/img-duan-spm-trang-2-1.jpg"},
-    {image:"img-group/img-duan-spm-trang-2-2.jpg"},
-    {image:"img-group/img-duan-spm-trang-2-3.jpg"},
-    {image:"img-group/img-duan-spm-trang-2-4.jpg"},
-    {image:"img-group/img-duan-spm-trang-2-5.jpg"},
-    {image:"img-group/img-duan-spm-trang-2-6.jpg"},
-    {image:"img-group/img-duan-spm-trang-2-7.jpg"},
-    {image:"img-group/img-duan-spm-trang-2-7.jpg"},
-    {image:"img-group/img-duan-spm-trang-2-9.jpg"},
-    {image:"img-group/img-duan-spm-trang-2-10.jpg"},
-    {image:"img-group/img-duan-spm-trang-2-11.jpg"},
-    {image:"img-group/img-duan-spm-trang-2-12jpg"},
+    {image:"img-group/img-duan-spm-trang-2-1-1.webp"},
+    {image:"img-group/img-duan-spm-trang-2-2-2.jpg"},
+    {image:"img-group/img-duan-spm-trang-2-3-3.webp"},
+    {image:"img-group/img-duan-spm-trang-2-4-4.webp"},
+    {image:"img-group/img-duan-spm-trang-2-5-5.webp"},
+    {image:"img-group/img-duan-spm-trang-2-6-6.webp"},
+    {image:"img-group/img-duan-spm-trang-2-7-7.jpg"},
+    {image:"img-group/img-duan-spm-trang-2-8-8.webp"},
+    {image:"img-group/img-duan-spm-trang-2-9-9.jwebp"},
+    {image:"img-group/img-duan-spm-trang-2-10-10.webp"},
+    {image:"img-group/img-duan-spm-trang-2-11-11.webp"},
+    {image:"img-group/img-duan-spm-trang-2-12-12.webp"},
 ];
 function section_spm_2(){
     var dulieu_spm_2="";
     for (i=0;i<dulieu.length;i++){
         dulieu_spm_2+="<div class=\"bot col-md-3\">\n" +
-            "        <div class=\"anhhien\">\n" +
+            "        <div class=\"anhImgs\">\n" +
             "        <a href='#'>\n" +
-            "            <img  src=\""+dulieu[i].image+"\"  />\n" +
-            "           <div class=\"anhan\">\n" +
-            "               <img  src=\""+dulieu_anhan[i].image+"\">\n" +
+            "           <div class=\"all-anh\">\n" +
+            "            <img class='anhhien' src=\""+dulieu[i].image+"\"  />\n" +
+            "               <img class='anhan' src=\""+dulieu_anhan[i].image+"\">\n" +
             "           </div>\n" +
             "        </a>\n" +
             "            </div>\n" +
             "        <a href=\"\" >\n" +
             "            <div class=\"text\">\n" +
             "                <h4>"+dulieu[i].name+"</h4>\n" +
-            "                <b>"+dulieu[i].price+"đ</b>\n" +
+            "                <b>"+dulieu[i].price+"</b>\n" +
             "            </div>\n" +
             "        </a>\n" +
             "    </div>"
