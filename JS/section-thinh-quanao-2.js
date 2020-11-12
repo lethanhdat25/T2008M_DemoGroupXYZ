@@ -38,15 +38,15 @@ var dulieu=[
 ];
 var dulieu_anhan=[
     {image:"img-group/img-duan-anhan-trang2-1.jpg"},
-    {image:"img-group/img-duan-anhan-trang2-1.jpg"},
-    {image:"img-group/img-duan-anhan-trang2-1.jpg"},
+    {image:"img-group/img-duan-trang2-2.jpg"},
+    {image:"img-group/img-duan-trang2-3.jpg"},
     {image:"img-group/img-duan-anhan-trang2-4.jpg"},
     {image:"img-group/img-duan-anhan-trang2-5.jpg"},
     {image:"img-group/img-duan-anhan-trang2-6.png"},
     {image:"img-group/img-duan-anhan-trang2-7.jpg"},
     {image:"img-group/img-duan-anhan-trang2-8.jpg"},
     {image:"img-group/img-duan-anhan-trang2-9.jpg"},
-    {image:"img-group/img-duan-anhan-trang2-1.jpg"},
+    {image:"img-group/img-duan-anhan-trang2-10.webp"},
     {image:"img-group/img-duan-anhan-trang2-11.jpg"},
     {image:"img-group/img-duan-anhan-trang2-12.jpg"},
 
