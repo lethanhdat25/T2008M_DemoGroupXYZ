@@ -4,7 +4,7 @@ var dulieu=[
     price:"1,450,000₫"},
 
     {name:"Beanie T-shirt",
-    image:"img-group/img-duan2.jpg",
+    image:"img-group/img-duan2 .jpg",
     price:"400,000₫"},
 
     {name:"BLANKE CLUB TSHIRT",
