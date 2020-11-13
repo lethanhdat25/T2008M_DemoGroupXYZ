@@ -49,30 +49,28 @@ var dulieu=[
         price:"480,000đ"},
 ];
 var dulieu_anhan=[
-    {image:"img-group/img-duan-spm-trang-1.jpg"},
-    {image:"img-group/img-duan-spm-trang-2.jpg"},
+    {image:"img-group/img-duan-anhan-spm-1.jpg"},
+    {image:"img-group/img-duan-anhan-spm-2.jpg"},
     {image:"img-group/img-duan-spm-trang-3.jpg"},
-    {image:"img-group/img-duan-spm-trang-4.jpg"},
-    {image:"img-group/img-duan-spm-trang-5.jpg"},
-    {image:"img-group/img-duan-spm-trang-6.jpg"},
-    {image:"img-group/img-duan-spm-trang-7.jpg"},
-    {image:"img-group/img-duan-spm-trang-8.jpg"},
-    {image:"img-group/img-duan-spm-trang-9.jpg"},
-    {image:"img-group/img-duan-spm-trang-10.jpg"},
-    {image:"img-group/img-duan-spm-trang-11.jpg"},
-    {image:"img-group/img-duan-spm-trang-12.jpg"},
-
-
+    {image:"img-group/img-duan-anhan-spm-4.jpg"},
+    {image:"img-group/img-duan-anhan-spm-5.jpg"},
+    {image:"img-group/img-duan-anhan-spm-6.jpg"},
+    {image:"img-group/img-duan-anhan-spm-7.jpg"},
+    {image:"img-group/img-duan-anhan-spm-8.jpg"},
+    {image:"img-group/img-duan-anhan-spm-9.jpg"},
+    {image:"img-group/img-duan-anhan-spm-10.jpg"},
+    {image:"img-group/img-duan-anhan-spm-11.jpg"},
+    {image:"img-group/img-duan-anhan-spm-12.jpg"},
 ];
 function section_spm(){
     var dulieu_spm="";
     for (i=0;i<dulieu.length;i++){
         dulieu_spm+="<div class=\"bot col-md-3\">\n" +
-            "        <div class=\"anhhien\">\n" +
+            "        <div class=\"anhImgs\">\n" +
             "        <a href='#'>\n" +
-            "            <img  src=\""+dulieu[i].image+"\"  />\n" +
-            "           <div class=\"anhan\">\n" +
-            "               <img  src=\""+dulieu_anhan[i].image+"\">\n" +
+            "           <div class=\"all-anh\">\n" +
+            "            <img class='anhhien' src=\""+dulieu[i].image+"\"  />\n" +
+            "               <img class='anhan' src=\""+dulieu_anhan[i].image+"\">\n" +
             "           </div>\n" +
             "        </a>\n" +
             "            </div>\n" +
