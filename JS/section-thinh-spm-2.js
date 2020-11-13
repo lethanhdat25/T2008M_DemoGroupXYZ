@@ -56,7 +56,7 @@ var dulieu_anhan=[
     {image:"img-group/img-duan-spm-trang-2-6-6.webp"},
     {image:"img-group/img-duan-spm-trang-2-7-7.jpg"},
     {image:"img-group/img-duan-spm-trang-2-8-8.webp"},
-    {image:"img-group/img-duan-spm-trang-2-9-9.jwebp"},
+    {image:"img-group/img-duan-spm-trang-2-9-9.webp"},
     {image:"img-group/img-duan-spm-trang-2-10-10.webp"},
     {image:"img-group/img-duan-spm-trang-2-11-11.webp"},
     {image:"img-group/img-duan-spm-trang-2-12-12.webp"},
