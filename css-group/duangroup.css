@@ -43,8 +43,6 @@ body{
     height: 50px;
 }
 
-
-
 #img-lg img{
     width: 23px;
     height: 23px;
@@ -327,5 +325,18 @@ a{
 }
 .all-anh{
     height: 350px;
+}
+.scale{
+    max-width: 100%;
+    vertical-align: middle;
+    margin-top: 100px;
+    transition: all 4s;
+}
+.scale img hover{
+    transform: scale(1.1);
+    overflow: hidden;
+}
+.video-trangchu{
+    margin-top: 100px;
 }
 
