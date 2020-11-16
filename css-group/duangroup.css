@@ -23,11 +23,13 @@ body{
     float: none;
     margin: auto;
 }
+
 .header .container{
     margin-top: 50px;
     border-bottom: 1px solid black;
     height: 100px;
     width: 95%;
+
 }
 .container h1{
     text-align: center;
@@ -342,4 +344,10 @@ a{
 }
 .col-md-6{
     width: 50%;
+}
+.container h1{
+    font-weight: 800;
+}
+.container h1 span{
+    font-weight: 300;
 }
