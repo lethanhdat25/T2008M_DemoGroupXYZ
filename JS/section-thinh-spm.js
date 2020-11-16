@@ -2,51 +2,51 @@
 var dulieu=[
     {image:"img-group/img-duan-spm-trang-1.jpg",
     name:"AQUA TANKTOP",
-    price:"350,000đ"},
+    price:"350,000₫"},
 
     {image:"img-group/img-duan-spm-trang-2.jpg",
         name:"BLANC SHORTS",
-        price:"420,000đ"},
+        price:"420,000₫"},
 
     {image:"img-group/img-duan-spm-trang-3.jpg",
         name:"BLANKROSE SHIRT",
-        price:"380,000đ"},
+        price:"380,000₫"},
 
     {image:"img-group/img-duan-spm-trang-4.jpg",
         name:"BLANKROSE SHIRT",
-        price:"380,000đ"},
+        price:"380,000₫"},
 
     {image:"img-group/img-duan-spm-trang-5.jpg",
         name:"BLANKSOUL MAUVAIS TANKOP",
-        price:"230,000đ"},
+        price:"230,000₫"},
 
     {image:"img-group/img-duan-spm-trang-6.jpg",
         name:"BLANKSOUL MIX TEE",
-        price:"280,000đ"},
+        price:"280,000₫"},
 
     {image:"img-group/img-duan-spm-trang-7.jpg",
         name:"BLANKSOUL SHORT",
-        price:"320,000đ"},
+        price:"320,000₫"},
 
     {image:"img-group/img-duan-spm-trang-8.jpg",
         name:"BLANKSOUL SLOGAN TEE",
-        price:"250,000đ"},
+        price:"250,000₫"},
 
     {image:"img-group/img-duan-spm-trang-9.jpg",
         name:"BLANKSOUL STRIPE TEE",
-        price:"260,000đ"},
+        price:"260,000₫"},
 
     {image:"img-group/img-duan-spm-trang-10.jpg",
         name:"BLANKSOUL WHITE SHIRT",
-        price:"380,000đ"},
+        price:"380,000₫"},
 
     {image:"img-group/img-duan-spm-trang-11.jpg",
         name:"BLANNKSOUL GARCON",
-        price:"380,000đ"},
+        price:"380,000₫"},
 
     {image:"img-group/img-duan-spm-trang-12.jpg",
         name:"BLUE TRINGLE SHIRT",
-        price:"480,000đ"},
+        price:"480,000₫"},
 ];
 var dulieu_anhan=[
     {image:"img-group/img-duan-anhan-spm-1.jpg"},

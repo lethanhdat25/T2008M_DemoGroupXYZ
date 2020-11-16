@@ -1,15 +1,15 @@
  var  dulieu=[
      {image:"img-group/img-duan-phukien-trang-1.webp",
         name:"COMFORT SNEAKERS",
-        price:"750,000"
+        price:"750,000₫"
      },
      {image:"img-group/img-duan-phukien-trang-2.webp",
          name:"CONGHOA HAT",
-         price:"350,000"
+         price:"350,000₫"
      },
      {image:"img-group/img-duan-phukien-trang-3.webp",
          name:"FEYERN MEATAL STRAP WATCH",
-         price:"1,050,000"
+         price:"1,050,000₫"
      },
  ];
  var dulieu_anhan=[

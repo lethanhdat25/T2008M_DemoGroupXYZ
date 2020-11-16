@@ -1,7 +1,7 @@
 var dulieu=[
     {name:"PEOPLE LONG TEE",
     image:"img-group/img-duan-trang3-1.jpg",
-    price:"480,000đ"},
+    price:"480,000₫"},
 
     {name:"Pink Diary Shirt",
         image:"img-group/img-duan-trang3-2.jpg",
